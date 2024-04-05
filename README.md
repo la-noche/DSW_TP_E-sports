@@ -12,10 +12,10 @@
 * [Frontend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/Frontend%20app.md)
 * [Backend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/Backend%20app.md)
 
-## Tema
+## Tema: Organizador de torneos de E-Sports
 ### Descripción
-*Organizador de torneos E-sports: Consiste en un sistema por el cual la comunidad de jugadores de videojuegos pueden interactuar y participar de torneos e-sports entre ellos, por premios en la plataforma. 
-Los organizadores definirán los juegos y darán el alta de los torneos, cada equipo se inscribe en el torneo que desea competir.*
+ Consiste en un sistema por el cual la comunidad de jugadores de videojuegos pueden interactuar y participar de torneos e-sports entre ellos, por premios en la plataforma. 
+Los usuarios se registran en la plataforma y pueden participar como organizadores o jugadores. Los organizadores definirán los juegos a competir y darán el alta de los torneos. Cada equipo, compuesto por cinco jugadores, se inscribe a la competición que desea participar, la cual puede ser gratuita o de pago (monedas de la plataforma). *
 
 
 ### Modelo
