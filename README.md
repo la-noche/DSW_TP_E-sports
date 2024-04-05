@@ -15,8 +15,8 @@
 ## Tema
 ### Descripción
 *Organizador de torneos E-sports: Consiste en un sistema por el cual la comunidad de jugadores de videojuegos pueden interactuar y participar de torneos e-sports entre ellos, por premios en la plataforma. 
-Los organizadores definirán los juegos y darán el alta de los torneos, cada equipo se inscribe en el torneo que desea competir.
-*
+Los organizadores definirán los juegos y darán el alta de los torneos, cada equipo se inscribe en el torneo que desea competir.*
+
 
 ### Modelo
 ![imagen del modelo]()
