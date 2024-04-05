@@ -27,9 +27,16 @@ Los organizadores definirán los juegos y darán el alta de los torneos, cada eq
 
 ### Alcance Mínimo
 
+Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego|
 |CRUD dependiente|1. CRUD Competición {depende de} CRUD Región<br>2. CRUD Juego {depende de} CRUD Tipo Juego|
 |Listado<br>+<br>detalle| 1. Listado de competiciones filtrado por región, muestra: nombre competicion, fecha competición, fecha fin de inscripción, estado (activa, finalizada, en juego) => detalle muestra datos completos de la competición y región.<br> 2. 2. Listado de historial de competiciones para un equipo, muestra: equipo, fecha de competición, resultado, jugadores que participaron, contrincantes. => detalle muestra datos completos del equipo y competiciones disputadas.|
 |CUU/Epic|1. Realizar la inscripción a una competición.<br>2. Realizar el alta de un equipo.|
+
+Adicionales para Aprobación:
+|Req|Detalle|
+|:-|:-|
+|CRUD |1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego<br>5. CRUD Competición<br>6. CRUD Juego<br>7. CRUD Inscripcion|
+|CUU/Epic|1. Realizar la inscripción a una competición.<br>2. Realizar el alta de un equipo.<br>3. ...<br>4. ...|
