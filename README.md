@@ -9,8 +9,8 @@
 
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [Frontend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/frontend%20app.md)
+* [Backend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/Backend%20app.md)
 
 ## Tema
 ### Descripción
