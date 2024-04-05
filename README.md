@@ -19,7 +19,7 @@ Los organizadores definirán los juegos y darán el alta de los torneos, cada eq
 
 
 ### Modelo
-[![imagen del modelo]()](https://drive.google.com/file/d/18mTl4cOiY1kLqtVcZMaUPZ_531Oesi6v/view?usp=drive_link)
+[[imagen del modelo]()](https://drive.google.com/file/d/18mTl4cOiY1kLqtVcZMaUPZ_531Oesi6v/view?usp=drive_link)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
