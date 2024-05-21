@@ -44,6 +44,6 @@ Alcance Adicional:
 
 |Req|Detalle|
 |:-|:-|
-|CUU/Epic|1. Editar descripcion de usuario.|
+|CUU/Epic|1. Editar alias de usuario.|
 |Otros| 'en construccion'|
 
