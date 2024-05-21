@@ -44,6 +44,6 @@ Alcance Adicional:
 
 |Req|Detalle|
 |:-|:-|
-|CUU/Epic|1. Cancelar inscripcion a competicion.<br>2. Editar descripcion de usuario.|
-|Otros|1. Enviar recordatorio de competicion por email|
+|CUU/Epic|1. Editar descripcion de usuario.|
+|Otros||
 
