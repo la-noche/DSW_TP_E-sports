@@ -30,9 +30,10 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Región<br>//2. CRUD Equipo *Elegimos este CRUD para la entrega del 03/05//.<br>3. CRUD Usuario<br>4. CRUD Tipo Juego *Elegimos este CRUD para la entrega del 24/05|
-|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Usuario<br>2. CRUD Juego {depende de} CRUD Tipo Juego|
+|CRUD dependiente|1. CRUD Equipo {depende de} CRUD Usuario<br>2. CRUD Juego {depende de} CRUD Tipo Juego<br>3. CRUD alta de un equipo {depende de} usuario.|
+|
 |Listado<br>+<br>detalle| 1. Listado de competiciones filtrado por región, muestra: nombre competicion, fecha competición, fecha fin de inscripción, estado (activa, finalizada, en juego) => detalle muestra datos completos de la competición y región.<br> 2. Listado de historial de competiciones para un equipo, muestra: equipo, fecha de competición, resultado, jugadores que participaron, contrincantes. => detalle muestra datos completos del equipo y competiciones disputadas.|
-|CUU/Epic|1. Realizar la inscripción a una competición.<br>2. Cancelar inscripción a una competición.<br>3. Realizar el alta de un equipo.|
+|CUU/Epic|1. Realizar la inscripción a una competición.<br>2. Cancelar inscripción a una competición.
 
 Adicionales para Aprobación:
 |Req|Detalle|
