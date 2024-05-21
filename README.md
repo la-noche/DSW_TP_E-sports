@@ -38,7 +38,7 @@ Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego<br>5. CRUD Competición<br>6. CRUD Juego<br>7. CRUD Inscripcion<br>8. CRUD Evento<br>9. CRUD Noticia|
-|CUU/Epic|1. Registrar juegos. <br>2. Registrar competiciones. <br>3. Enviar recordatorios por mail a Usuarios. <br> 4. Registrar resultado del equipo.|
+|CUU/Epic|1. Registrar juegos. <br>2. Registrar competiciones. <br>3. Enviar recordatorios por mail a Usuarios. <br> 4. Añadir noticias nuevas a pag principal.|
 
 Alcance Adicional:
 
