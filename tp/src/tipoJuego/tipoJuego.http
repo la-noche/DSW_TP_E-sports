@@ -1,5 +1,5 @@
 ###obtener todos los tipos de juego
-GET http://localhost:3000/api/tipoJuego
+GET http://localhost:3000/api/TiposDeJuegos
 
 ### obtener un tipo de juego
 GET http://localhost:3000/api/tipoJuego
