@@ -1,4 +1,4 @@
-import express from 'express'
+import express from "express"
 //import { characterRouter } from './tipoJuego/tipoJuego.routes.ts'
 
 const app = express()
