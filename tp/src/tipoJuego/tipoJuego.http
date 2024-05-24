@@ -1,8 +1,8 @@
 ###obtener todos los tipos de juego
-GET http://localhost:3000/api/TiposDeJuegos
+GET http://localhost:3000/api/tipoJuego
 
 ### obtener un tipo de juego
-GET http://localhost:3000/api/tipoJuego
+GET http://localhost:3000/api/tipoJuego/f1f5a1e4-ee46-479e-a967-52c57b15e7f4
 
 ### crear un nuevo tipo de juego
 POST http://localhost:3000/api/tipoJuego
@@ -14,7 +14,7 @@ Content-Type: application/json
 }
 
 ### modificar un tipo de juego (PUT - recurso completo e idempotente)
-PUT http://localhost:3000/api/characters/
+PUT http://localhost:3000/api/tipoJuego/f1f5a1e4-ee46-479e-a967-52c57b15e7f4
 Content-Type: application/json
 
 {
@@ -23,11 +23,12 @@ Content-Type: application/json
 }  
 
 ### modificar un tipo de juego (PATCH - recurso parcial)
-PATCH http://localhost:3000/api/characters/
+PATCH http://localhost:3000/api/tipoJuego/f1f5a1e4-ee46-479e-a967-52c57b15e7f4
+Content-Type: application/json
 
 {
   "description": "Género que se caracteriza por ofrecer al jugador la posibilidad de asumir el papel de uno o varios personajes en un mundo ficticio"
 }
 
 ### borrar un tipo de juego
-DELETE http://localhost:3000/api/characters/
+DELETE http://localhost:3000/api/tipoJuego/f1f5a1e4-ee46-479e-a967-52c57b15e7f4
