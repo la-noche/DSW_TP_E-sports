@@ -10,7 +10,7 @@
 
 ### Repositorios
 * [Frontend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/Frontend%20app.md)
-* [Backend app](https://github.com/la-noche/DSW_TP_E-sports/blob/main/Backend%20app.md)
+* [Backend app](https://github.com/LautiDuarte/Backend)
 
 ## Tema: Organizador de torneos de E-Sports
 ### Descripción
