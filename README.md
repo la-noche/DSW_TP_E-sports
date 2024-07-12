@@ -19,7 +19,7 @@ Los usuarios se registran en la plataforma y pueden participar como organizadore
 
 
 ### Modelo
-[![Imagen del modelo]()](https://drive.google.com/file/d/1eNk4QcGUT4CHhTZ8tP93NbiV77f5mXGG/view?usp=drive_link)
+[![Imagen del modelo]()](https://drive.google.com/file/d/1z8fQ9swEjMn4NYFrh-gOYw-mAUTjg1uw/view?usp=sharing)
 
 
 ## Alcance Funcional 
