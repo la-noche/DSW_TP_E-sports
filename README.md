@@ -9,7 +9,7 @@
 
 
 ### Repositorios
-* [Frontend app](https://github.com/LautiDuarte/Frontend)
+* [Frontend app](https://github.com/la-noche/Frontend.git)
 * [Backend app](https://github.com/LautiDuarte/Backend)
 
 ## Tema: Organizador de torneos de E-Sports
