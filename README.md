@@ -31,14 +31,15 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Juego<br>2. CRUD Usuario<br>3. CRUD Region<br>4. CRUD Noticia|
 |CRUD dependiente|1. CRUD Equipo {depende de} CRUD Usuario<br>2. CRUD Juego {depende de} CRUD Tipo Juego|
-|Listado<br>+<br>detalle| 1. Listado de competiciones filtrado por región, muestra: nombre competicion, fecha competición, fecha fin de inscripción, estado (activa, finalizada, en juego) => detalle muestra datos completos de la competición y región.<br> 2. Listado de historial de competiciones para un equipo, muestra: equipo, fecha de competición, resultado, jugadores que participaron, contrincantes. => detalle muestra datos completos del equipo y competiciones disputadas.|
-|CUU/Epic|1. Realizar inscripción a una competición.<br>2. Cancelar inscripción a una competición.|
+|Listado<br>+<br>detalle| 1. Listado de juegos filtrado por tipo de juego, muestra Tipo de juego, nombre de juego, descripcion de juego.<br> 2. Listado de equipos disponibles para unirse.|
+|CUU/Epic|1. Registrarse a un equipo.<br>2. Actualizar usuario.|
 
 Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego<br>5. CRUD Competición<br>6. CRUD Juego<br>7. CRUD Inscripcion<br>8. CRUD Evento<br>9. CRUD Noticia|
-|CUU/Epic|1. Registrar juegos. <br>2. Registrar competiciones. <br>3. Enviar recordatorios por mail a Usuarios. <br> 4. Añadir noticias nuevas a pag principal.|
+|Listado<br>+<br>detalle| 1. Listado de competiciones filtrado por región, muestra: nombre competicion, fecha competición, fecha fin de inscripción, estado (activa, finalizada, en juego) => detalle muestra datos completos de la competición y región.<br> 2. Listado de historial de competiciones para un equipo, muestra: equipo, fecha de competición, resultado, jugadores que participaron, contrincantes. => detalle muestra datos completos del equipo y competiciones disputadas.|
+|CUU/Epic|1. Realizar inscripción a una competición. <br>2. Cancelar inscripción a una competición. <br>3. Enviar recordatorios por mail a Usuarios. <br> 4. Añadir noticias nuevas a pag principal.|
 
 Alcance Adicional:
 
