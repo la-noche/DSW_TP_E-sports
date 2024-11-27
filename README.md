@@ -14,7 +14,7 @@
 
 ## Tema: Organizador de torneos de E-Sports
 ### Descripción
-*Consiste en un sistema por el cual la comunidad de jugadores de videojuegos pueden interactuar y participar de torneos e-sports entre ellos, por premios en la plataforma. 
+*Consiste en un sistema por el cual la comunidad de jugadores de videojuegos pueden interactuar y participar de torneos e-sports entre ellos.
 Los usuarios se registran en la plataforma y pueden participar como organizadores o jugadores. Los organizadores definirán los juegos a competir y darán el alta de los torneos. Cada equipo, compuesto por cinco jugadores, se inscribe a la competición que desea participar.*
 
 
@@ -31,7 +31,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Juego<br>2. CRUD Usuario<br>3. CRUD Region<br>4. CRUD Noticia|
 |CRUD dependiente|1. CRUD Equipo {depende de} CRUD Usuario<br>2. CRUD Juego {depende de} CRUD Tipo Juego|
-|Listado<br>+<br>detalle| 1. Listado de juegos filtrado por tipo de juego, muestra Tipo de juego, nombre de juego, descripcion de juego.<br> 2. Listado de equipos disponibles para unirse.|
+|Listado<br>+<br>detalle| 1. Listado de teams, filtrado por usuario.<br> 2. Listado de equipos disponibles para unirse.|
 |CUU/Epic|1. Registrarse a un equipo.<br>2. Actualizar usuario.|
 
 Adicionales para Aprobación:
