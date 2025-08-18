@@ -31,20 +31,20 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Juego<br>2. CRUD Usuario<br>3. CRUD Region<br>4. CRUD Noticia|
 |CRUD dependiente|1. CRUD Equipo {depende de} CRUD Usuario<br>2. CRUD Juego {depende de} CRUD Tipo Juego|
-|Listado<br>+<br>detalle| 1. Listado de teams, filtrado por usuario.<br> 2. Listado de equipos disponibles para unirse.|
+|Listado<br>+<br>detalle| 1. Listado de teams, filtrado por usuario.<br> 2. Listado de equipos.|
 |CUU/Epic|1. Registrarse a un equipo.<br>2. Actualizar usuario.|
 
 Adicionales para Aprobación:
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego<br>5. CRUD Competición<br>6. CRUD Juego<br>7. CRUD Inscripcion<br>8. CRUD Evento<br>9. CRUD Noticia|
-|Listado<br>+<br>detalle| 1. Listado de competiciones filtrado por región, muestra: nombre competicion, fecha competición, fecha fin de inscripción, estado (activa, finalizada, en juego) => detalle muestra datos completos de la competición y región.<br> 2. Listado de historial de competiciones para un equipo, muestra: equipo, fecha de competición, resultado, jugadores que participaron, contrincantes. => detalle muestra datos completos del equipo y competiciones disputadas.|
-|CUU/Epic|1. Realizar inscripción a una competición. <br>2. Cancelar inscripción a una competición. <br>3. Enviar recordatorios por mail a Usuarios. <br> 4. Añadir noticias nuevas a pag principal.|
+|CRUD |1. CRUD Región<br>2. CRUD Equipo<br>3. CRUD Usuario<br>4. CRUD Tipo Juego<br>5. CRUD Competición<br>6. CRUD Juego<br>7. CRUD Inscripcion<br>8. CRUD Noticia<br>9. CRUD Partido|
+|Listado<br>+<br>detalle| 1. Listado de competiciones por juego, muestra: nombre competición, fecha fin inscripción y región => detalle muestra datos completos de la competición.<br> 2. Listado de competiciones filtrada por un usuario, muestra: nombre competición, juego, región, creador, fecha fin inscripción y cantidad de equipos aceptados. => detalle muestra datos completos de la competición.|
+|CUU/Epic|1. Realizar inscripción a una competición. <br>2. Añadir usuario a un equipo. <br>3. Enviar mail de bienvenida a Usuarios. <br> 4. Crear enfrentamientos de una competición.|
 
 Alcance Adicional:
 
 |Req|Detalle|
 |:-|:-|
-|CUU/Epic|1. Editar alias de usuario.|
-|Otros| 'en construccion'|
+|CUU/Epic|1. Editar username de usuario. <br>2. Recuperar contraseña de un usuario.|
+|Otros| '1. Control de accesos. <br> En construcción.'|
 
