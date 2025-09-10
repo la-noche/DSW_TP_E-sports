@@ -70,7 +70,10 @@ Sigue estos pasos para configurar el entorno de desarrollo.
 **1. Clonar el Repositorio**
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+mkdir proyecto_e-sports
+cd proyecto_e-sports
+git clone https://github.com/LautiDuarte/Backend.git (para clonar el backend)
+git clone https://github.com/la-noche/Frontend.git (para clonar el frontend)
 cd [NOMBRE_DE_LA_CARPETA_DEL_PROYECTO]
 ```
 
